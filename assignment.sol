@@ -4,7 +4,7 @@ pragma solidity >=0.8.2 <0.9.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract MyToken is ERC20 {
+contract AituRakhat is ERC20 {
     // external - cannot be called inside contract 
     event Timestamp(uint256 currentHour, uint256 currentMinute, uint256 currentSecond);
     event Receiver(address addr);
