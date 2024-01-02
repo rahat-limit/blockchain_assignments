@@ -56,8 +56,8 @@ Welcome to my respository, which I created due to Blockchain lessons. Here you c
 ## 🌟 BONUS TASK, File Assignment.sol [(source)](https://github.com/rahat-limit/blockchain_assignments/blob/main/assignment.sol)
 **In order to deploy token on MetaMask, I connected wallet to BSC test network. Then connected remix with metamask. Consequently, I had everything to go on. To test my token, transaction was sent. Finally, it succeeded!**
 
-<p align="center">
-  <img src = "https://github.com/rahat-limit/blockchain_assignments/blob/main/assets/send1000.png" width=600 height=300>
+<p align="space-between">
+  <img src = "https://github.com/rahat-limit/blockchain_assignments/blob/main/assets/send1000.png" width=600 >
   <img src = "https://github.com/rahat-limit/blockchain_assignments/blob/main/assets/success_status.png" width=600>
-  <img src = "https://github.com/rahat-limit/blockchain_assignments/blob/main/assets/metamask_status.png" width=600 height=300>
+  <img src = "https://github.com/rahat-limit/blockchain_assignments/blob/main/assets/metamask_status.png" width=600>
 </p>
